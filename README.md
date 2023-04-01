@@ -45,6 +45,18 @@
 |대한전자공학회 추계학술대회|점진적 학습법과 준 지도 학습법을 활용한 센서 기반 인간 행동 인식 프레임워크|2022.11.25~2022.11.26|
 |The 1st CUK Annual Colloquium on Artificial Intelligence; CUK AI Colloquium 2022|Sensor-based Human Activity Recognition Framework using Incremental Learning and Semi-supervised Learning Approach|2023.01.26~2023.01.27|
 
+     
+
+<br><br><br>     
+🤖 Project 🤖
+|Project|Part|Date|
+|-------|----|----| 
+|불매운동 도우미|팀장, 기획|2022.09~2022.10|
+|A low-end Smartphone that can help llliterate people|팀장, 기획|2022.09~2022.10|
+|인공지능 반려 화분|기획|2022.12~2023.01|
+|HMM-based Recommender System을 활용한 데이트 통장 상품 제안|팀장, 기획|2023.01~2023.02|
+|웹 브라우저 매니징 시스템|기획, ML 개발자|2023.03~|
+ 
 <br><br><br>     
 🤖 Activity 🤖
 |Organization|Activity|Date|
