@@ -3,8 +3,7 @@
 
 - 🎓 I’m currently a student in the Department of Articifial Intelligence of Catholic univ ...
 - 🧐 I’m currently working on BRAIN Lab(Biomedical Research based on Artificial Intelligence and Neural Engineering) ...
-- 📚 I’m currently interested in field of Artificial Intelligence,
-     especially, biosignal processing, image processing and RS...
+- 📚 I’m currently interested in field of Product Manager and Artificial Intelligence ...
      
  
 <br>
@@ -74,7 +73,7 @@
 |SW/AI 캠프|강사|2023.01~|
 |AIM(인공지능 학술 동아리)|동아리 활동|2023.01~2023.06|
 |가톨릭대학교 ICT SOS Class|튜터|2023.03~2023.06|
-|가톨릭대학교 대외협력팀|인턴십|2023.09~|
+|가톨릭대학교 대외협력팀|인턴십|2023.09~2024.02|
 
 
 </div>
