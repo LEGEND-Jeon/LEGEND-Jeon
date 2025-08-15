@@ -23,7 +23,7 @@
 
 <br>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 
 <br>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
@@ -51,16 +51,22 @@
 
 <br><br><br>     
 🤖 Project 🤖
-|Project|Part|Date|
+(제목을 누르면 프로젝트로 이동합니다.)
+|Project|Part|Date|note|
 |-------|----|----| 
-|불매운동 도우미|팀장, 기획|2022.09~2022.10|
-|A low-end Smartphone that can help llliterate people|팀장, 기획|2022.09~2022.10|
-|메뉴듀스 101|팀장, 기획, AI 파트 개발|2022.11~2022.12|
-|인공지능 반려 화분|기획|2022.12~2023.01|
-|HMM-based Recommender System을 활용한 데이트 통장 상품 제안|팀장, 기획|2023.01~2023.02|
-|웹 브라우저 매니징 시스템|기획|2023.03~2023.07|
-|OOTT|팀장, 기획, RS 개발, DATA 수집 및 처리|2023.04~2023.11|
-|AIoT 무인 돗자리 자판기|팀장, 기획, 소프트웨어 개발|2023.11.03~2023.11.04|
+|[전자동AI무인출입명부시스템](https://github.com/LEGEND-Jeon/Project/tree/main/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BCAI%E1%84%86%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7)|기획, 소프트웨어 개발|2020.11.13~2020.11.14|서울학생메이커괴짜축제 2020|
+|[불매운동 도우미](https://github.com/LEGEND-Jeon/Project/tree/main/%EB%B6%88%EB%A7%A4%EC%9A%B4%EB%8F%99%20%EB%8F%84%EC%9A%B0%EB%AF%B8)|팀장, 기획|2022.09~2022.10|키스톤디자인창의설계(교과목) 팀 프로젝트|
+|[A low-end Smartphone that can help llliterate people](https://github.com/LEGEND-Jeon/Project/tree/main/A%20low-end%20Smartphone%20that%20can%20help%20llliterate%20people)|팀장, 기획|2022.09~2022.10|Girls In ICT|
+|[메뉴듀스 101](https://github.com/LEGEND-Jeon/Project/tree/main/%EB%A9%94%EB%89%B4%EB%93%80%EC%8A%A4101)|팀장, 기획, AI 파트 개발|2022.11~2022.12|2022 클라우드 아이디어 경진대회 장려상|
+|인공지능 반려 화분|기획|2022.12~2023.01|4차산업혁명기술과창업(교과목) 팀 프로젝트|
+|[HMM-based Recommender System을 활용한 데이트 통장 상품 제안](https://github.com/LEGEND-Jeon/Project/tree/main/HMM-based%20Recommender%20System%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%ED%86%B5%EC%9E%A5%20%EC%83%81%ED%92%88%20%EC%A0%9C%EC%95%88)|팀장, 기획|2023.01~2023.02|DB금융경제공모전|
+|[웹 브라우저 매니징 시스템](https://github.com/LEGEND-Jeon/Project/tree/main/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A7%A4%EB%8B%88%EC%A7%95%20%EC%8B%9C%EC%8A%A4%ED%85%9C)|기획|2023.03~2023.07|인공지능학과 경진대회|
+|[여행지별 코디 추천 서비스(OOTT)](https://github.com/Outfit-of-the-Trip)|팀장, 기획, RS 개발, DATA 수집 및 처리|2023.04~2023.11|2023 관광데이터 활용 공모전 우수상|
+|[AIoT 무인 돗자리 자판기](https://github.com/LEGEND-Jeon/mat-vending-machine)|팀장, 기획, 소프트웨어 개발|2023.11.03~2023.11.04|2023 서울 지능형 사물인터넷(AIoT) 해커톤 장려상|
+|[AgeGenderPrediction Deep Learning Model](https://github.com/DL-teamproject-AGEANDGENDERPREDICT/DL_AgeGenderPrediction)|인공지능 개발|2024.03~2024.06|딥러닝(교과목) 팀 프로젝트|
+|[대학생을 위한 대외활동 추천·팀빌딩 어플](https://github.com/LEGEND-Jeon/GODdaesaeng)|Project Manager|2024.09~2024.12|UMC(대학생 IT 연합 동아리)|
+|[AI-docent](https://github.com/AI-docent/AI-docent)|기획, 디자인, 소프트웨어 개발|2024.09.03~2024.11|자연어처리(교과목) 팀 프로젝트|
+|[AI 영상 편집 서비스|팀장, 기획, 인공지능 개발 총괄](https://github.com/LEGEND-Jeon/Clipper-AI)|2024.06~|가톨릭대아이템경진대회 3위,부천지역대학연합창업공모전 우수상|
  
 <br><br><br>     
 🤖 Activity 🤖
@@ -69,11 +75,15 @@
 |서울학생메이커괴짜축제|부스 참여|2019.10.18~2019.10.19|
 |서울학생메이커괴짜축제|메이킹마라톤 완주|2020.11.13~2020.11.14|
 |CAT-CERT|동아리 활동|2022.03~2022.07|
-|BRAIN Lab|학부연구생|2022.07~|
-|SW/AI 캠프|강사|2023.01~|
-|AIM(인공지능 학술 동아리)|동아리 활동|2023.01~2023.06|
-|가톨릭대학교 ICT SOS Class|튜터|2023.03~2023.06|
-|가톨릭대학교 대외협력팀|인턴십|2023.09~2024.02|
+|BRAIN Lab|학부연구생|2022.07~2024.03|
+|SW/AI 캠프|강사|2023.01~2024.01|
+|AIM(인공지능 학술 동아리)|임원|2023.01~2023.06|
+|가톨릭대학교 ICT SOS Class|튜터|2023.03~|
+|가톨릭대학교 대외협력팀 인턴십|가톨릭대학교 홈페이지 기획/개발|2023.09~2025.08|
+|UMC(대학생 IT 연합 동아리)|가톨릭대학교 Plan 파트장|2024.09~2024.12|
+|가톨릭대학교 창업동아리|대표|2024.03~2025.08|
+|가톨릭대학교 후배사랑 100인 멘토링|멘토|2025.03~|
+|Seoul AI Young Track|이수|2025.06~2025.08|
 
 
 </div>
