@@ -47,7 +47,7 @@
 |대한전자공학회 추계학술대회|점진적 학습법과 준 지도 학습법을 활용한 센서 기반 인간 행동 인식 프레임워크|2022.11.25~2022.11.26|
 |The 1st CUK Annual Colloquium on Artificial Intelligence; CUK AI Colloquium 2022|Sensor-based Human Activity Recognition Framework using Incremental Learning and Semi-supervised Learning Approach|2023.01.26~2023.01.27|
 <br>
-[논문보기](https://github.com/LEGEND-Jeon/Paper/tree/main/%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%B2%95%EA%B3%BC%20%EC%A4%80%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%BC%EC%84%9C%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B0%84%20%ED%96%89%EB%8F%99%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+[논문보기](https://github.com/LEGEND-Jeon/Paper/tree/main/%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%B2%95%EA%B3%BC%20%EC%A4%80%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%BC%EC%84%9C%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B0%84%20%ED%96%89%EB%8F%99%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%A)
 
      
 
@@ -66,7 +66,7 @@
 | [전자동AI무인출입명부시스템](https://github.com/LEGEND-Jeon/Project/tree/main/%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BCAI%E1%84%86%E1%85%AE%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7) | 기획, 소프트웨어 개발 | 2020.11.13~2020.11.14 | 서울학생메이커괴짜축제 2020 |
 | [불매운동 도우미](https://github.com/LEGEND-Jeon/Project/tree/main/%EB%B6%88%EB%A7%A4%EC%9A%B4%EB%8F%99%20%EB%8F%84%EC%9A%B0%EB%AF%B8) | 팀장, 기획 | 2022.09~2022.10 | 키스톤디자인창의설계(교과목) 팀 프로젝트 |
 | [A low-end Smartphone that can help llliterate people](https://github.com/LEGEND-Jeon/Project/tree/main/A%20low-end%20Smartphone%20that%20can%20help%20llliterate%20people) | 팀장, 기획 | 2022.09~2022.10 | Girls In ICT |
-| [메뉴듀스 101]([https://github.com/LEGEND-Jeon/Project/tree/main/%EB%A9%94%EB%89%B4%EB%93%80%EC%8A%A4101](https://github.com/LEGEND-Jeon/menu-selector)) | 팀장, 기획, AI 파트 개발 | 2022.11~2022.12 | 2022 클라우드 아이디어 경진대회 장려상 |
+| [메뉴듀스 101](https://github.com/LEGEND-Jeon/menu-selector) | 팀장, 기획, AI 파트 개발 | 2022.11~2022.12 | 2022 클라우드 아이디어 경진대회 장려상 |
 | 인공지능 반려 화분 | 기획 | 2022.12~2023.01 | 4차산업혁명기술과창업(교과목) 팀 프로젝트 |
 | [HMM-based Recommender System을 활용한 데이트 통장 상품 제안](https://github.com/LEGEND-Jeon/Project/tree/main/HMM-based%20Recommender%20System%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%ED%86%B5%EC%9E%A5%20%EC%83%81%ED%92%88%20%EC%A0%9C%EC%95%88) | 팀장, 기획 | 2023.01~2023.02 | DB금융경제공모전 |
 | [웹 브라우저 매니징 시스템](https://github.com/LEGEND-Jeon/Project/tree/main/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A7%A4%EB%8B%88%EC%A7%95%20%EC%8B%9C%EC%8A%A4%ED%85%9C) | 기획 | 2023.03~2023.07 | 인공지능학과 경진대회 |
