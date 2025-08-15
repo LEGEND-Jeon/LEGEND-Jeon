@@ -47,16 +47,9 @@
 |대한전자공학회 추계학술대회|점진적 학습법과 준 지도 학습법을 활용한 센서 기반 인간 행동 인식 프레임워크|2022.11.25~2022.11.26|
 |The 1st CUK Annual Colloquium on Artificial Intelligence; CUK AI Colloquium 2022|Sensor-based Human Activity Recognition Framework using Incremental Learning and Semi-supervised Learning Approach|2023.01.26~2023.01.27|
 <br>
-[논문보기](https://github.com/LEGEND-Jeon/Paper/tree/main/%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%B2%95%EA%B3%BC%20%EC%A4%80%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%BC%EC%84%9C%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B0%84%20%ED%96%89%EB%8F%99%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%A)
+[논문보기](https://github.com/LEGEND-Jeon/Paper/tree/main/%EC%A0%90%EC%A7%84%EC%A0%81%20%ED%95%99%EC%8A%B5%EB%B2%95%EA%B3%BC%20%EC%A4%80%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%84%BC%EC%84%9C%20%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EA%B0%84%20%ED%96%89%EB%8F%99%20%EC%9D%B8%EC%8B%9D%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 
-     
-
-<br><br><br>     
-🤖 Project 🤖
-(제목을 누르면 프로젝트로 이동합니다.)
-|Project|Part|Date|note|
-|-------|----|----| 
-<br><br><br>     
+<br><br><br>        
 
 🤖 Project 🤖  
 (제목을 누르면 프로젝트로 이동합니다.)
