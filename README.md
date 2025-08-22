@@ -110,7 +110,7 @@
 
 | Study | contents | Date | Note |
 | ------- | ---- | ---- | ---- |
- | [Project Manager(Plan part)](https://github.com/LEGEND-Jeon/Clipper-AI) | 기획 실무 (와이어프레임, 화면설계서, 프로젝트 관리, 역기획 등) | 2024.03~2024.05 | UMC |
+ | [Project Manager(Plan part)]([https://github.com/LEGEND-Jeon/Clipper-AI](https://github.com/LEGEND-Jeon/Plan-Study)) | 기획 실무 (와이어프레임, 화면설계서, 프로젝트 관리, 역기획 등) | 2024.03~2024.05 | UMC |
   | [AI Agent](https://github.com/LEGEND-Jeon/AI-Agent/tree/main) | AI Agent, RAG | 2025.08~ | 개인 스터디 |
  
 <br><br><br>     
