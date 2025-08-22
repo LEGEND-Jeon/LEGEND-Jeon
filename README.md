@@ -67,6 +67,16 @@
 | [대학생을 위한 대외활동 추천·팀빌딩 어플](https://github.com/LEGEND-Jeon/GODdaesaeng) | Project Manager | 2024.09~2024.12 | UMC(대학생 IT 연합 동아리) |
 | [AI-docent](https://github.com/AI-docent/AI-docent) | 기획, 디자인, 소프트웨어 개발 | 2024.09.03~2024.11 | 자연어처리(교과목) 팀 프로젝트 |
 | [AI 영상 편집 서비스 Clipper-AI](https://github.com/LEGEND-Jeon/Clipper-AI) | 팀장, 기획, 인공지능 개발 총괄 | 2024.06~ | 가톨릭대 아이템경진대회 3위, 부천지역대학연합창업공모전 우수상 |
+
+<br><br><br>        
+
+🤖 Study 🤖  
+(제목을 누르면 스터디 내용으로 이동합니다.)
+
+| Study | contents | Date | Note |
+| ------- | ---- | ---- | ---- |
+ | [Project Manager(Plan part)](https://github.com/LEGEND-Jeon/Clipper-AI) | 기획 실무 (와이어프레임, 화면설계서, 프로젝트 관리, 역기획 등) | 2024.03~2024.05 | UMC |
+  | [AI Agent](https://github.com/LEGEND-Jeon/Clipper-AI) | AI Agent, RAG | 2025.08~ | 개인 스터디 |
  
 <br><br><br>     
 🤖 Activity 🤖
