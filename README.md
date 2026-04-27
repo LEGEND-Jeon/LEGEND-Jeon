@@ -66,6 +66,13 @@
 </div>
 
 <br><br><br>
+💼 Work Experience 💼
+|Company|Role|Date|Note|
+|-------|----|----|----|
+|**네이버웹툰**|**AI 서비스 기획 인턴 (Character Chat)**|2025.11~2026.02|LLM 벤치마킹 및 자동화 QA 시스템 구축|
+|가톨릭대학교 대외협력팀|가톨릭대학교 홈페이지 기획/개발 인턴|2023.09~2025.08|교내 공식 홈페이지 기획 및 유지보수|
+
+<br><br><br>
 
 🏆 Prize 🏆
 |Competitions|Prize|Date|
