@@ -1,10 +1,8 @@
 👩🏻‍💻 ABOUT ME 👩🏻‍💻
 
-- 🎓 가톨릭대학교 인공지능학과 재학 중입니다. (2027.02 졸업 예정)
-- 💼 현재 EY한영 컨설팅부문 AI&Data팀에서 AI Agent 프로젝트를 맡고 있습니다.
-- 🛠️ AI 개발 외주를 수행하는 프리랜서로도 일했습니다. (디자인 생성 플랫폼, 이미지 처리 서비스)
-- 🧭 문제 정의부터 모델 선정, 검증까지 이어지는 일에 관심이 있습니다.
-
+🎓 I’m currently a student in the Department of Artificial Intelligence of Catholic univ ...
+🧐 I’m currently working on an AI Agent project at EY Consulting (AI&Data) ...
+🛠️ I’ve also worked as a freelance AI developer ...
 
 <br>
 <br>
