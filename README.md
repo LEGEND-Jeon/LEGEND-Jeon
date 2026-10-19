@@ -161,12 +161,6 @@ AI 디자인 생성 플랫폼 관련 2건 / 프라이버시 보호 카메라 필
 |Seoul AI Young Track|이수|2025.06~2025.08|
 
 <br><br><br>
-📊 GitHub Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=LEGEND-Jeon&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND-Jeon&layout=compact&hide_border=true" height="150"/>
-
-<br><br><br>
 📬 Contact 📬
 
 <a href="https://www.linkedin.com/in/jeon-seol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
